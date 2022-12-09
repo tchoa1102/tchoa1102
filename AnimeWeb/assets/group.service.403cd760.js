@@ -1,0 +1,1 @@
+import{B as a}from"./index.16961ad9.js";class r extends a{constructor(e="/api/groups"){super(e)}async getElementsByName(e){return(await this.api.get(`/search?search=${e}`)).data}async getFilms(e){return(await this.api.get(`/films?group=${e}`)).data}}const i=new r;export{i as G};
