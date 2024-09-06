@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="text-align: center;">
+<h1 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=F70000&center=true&width=435&lines=Hi+There!+%F0%9F%91%8B" alt="Typing SVG" />
     </a>
 </h1>
-<section style="text-align: center;">
+<section align="center">
     <img alt="Focus" src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-brightgreen">
     <img alt="Languages" src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20C%2B%2B-blue">
     <img alt="Static Badge" src="https://img.shields.io/badge/Interests-Web%20%7C%20Game-orange">
@@ -52,7 +52,7 @@ me.say_hi()
 ```
 
 ## 🛠️ Tech Stack
-<section style="text-align: center;">
+<section align="center">
     <section class="programming-language">
         <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
         <img alt="C#" src="https://img.shields.io/badge/C%23-59276e?logo=c-sharp&logoColor=white">
@@ -82,10 +82,11 @@ me.say_hi()
     <section class="devops">
         <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
         <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-          </section>
+    </section>
 </section>
 
-## :bar_chart: Statistics
+<!-- :bar_chart: -->
+## 📊 Statistics
 <section> <!--  style="display: grid; justify-content: center;" -->
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img width=390 src="https://github-readme-stats.vercel.app/api?username=tchoa1102&show=reviews&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
